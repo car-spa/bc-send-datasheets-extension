@@ -8,6 +8,7 @@ pageextension 50201 "Customer List Datasheet Ext" extends "Customer List"
             {
                 ApplicationArea = All;
                 ToolTip = 'Angir e-postadressen for sending av datablader.';
+                Visible = false;
             }
             field("Send Datasheets"; Rec."Send Datasheets")
             {
