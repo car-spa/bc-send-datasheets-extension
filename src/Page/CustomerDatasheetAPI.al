@@ -8,7 +8,9 @@ page 50200 "Customer Datasheet API"
     PageType = API;
     SourceTable = Customer;
     ODataKeyFields = SystemId;
-    DelayedInsert = true;
+    InsertAllowed = false;
+    ModifyAllowed = false;
+    DeleteAllowed = false;
 
     layout
     {
