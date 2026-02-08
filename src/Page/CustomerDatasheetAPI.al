@@ -38,9 +38,9 @@ page 50200 "Customer Datasheet API"
                 {
                     Caption = 'Datasheet Email';
                 }
-                field(sendDatasheets; Rec."Send Datasheets")
+                field(sendDatasheet; Rec."Send Datasheet")
                 {
-                    Caption = 'Send Datasheets';
+                    Caption = 'Send Datasheet';
                 }
             }
         }

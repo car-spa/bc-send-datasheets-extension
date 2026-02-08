@@ -7,9 +7,9 @@ tableextension 50200 "Customer Datasheet Ext" extends Customer
             Caption = 'Datablad e-post';
             DataClassification = CustomerContent;
         }
-        field(50201; "Send Datasheets"; Boolean)
+        field(50201; "Send Datasheet"; Boolean)
         {
-            Caption = 'Send datablader';
+            Caption = 'Send datablad';
             DataClassification = CustomerContent;
             InitValue = true;
         }
