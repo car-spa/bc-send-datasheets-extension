@@ -1,4 +1,4 @@
-pageextension 50201 "Customer List Datasheet Ext" extends "Customer List"
+pageextension 50301 "Customer List Datasheet Ext" extends "Customer List"
 {
     layout
     {

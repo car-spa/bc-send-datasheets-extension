@@ -1,4 +1,4 @@
-tableextension 50200 "Customer Datasheet Ext" extends Customer
+tableextension 50300 "Customer Datasheet Ext" extends Customer
 {
     fields
     {

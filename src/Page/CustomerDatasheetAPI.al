@@ -1,4 +1,4 @@
-page 50200 "Customer Datasheet API"
+page 50300 "Customer Datasheet API"
 {
     APIGroup = 'datasheets';
     APIPublisher = 'carSpa';
